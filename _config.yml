@@ -1,18 +1,58 @@
-# Site settings
-title: PHP Way DF
-email: admin@phpway.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://phpway.com" # the base hostname & protocol for your site
-twitter_username: phpway
-github_username:  phpway
+title:            PHP Way
+tagline:          Meetup PHP en la Ciudad de México.
+description:      Describe your website.
+canonical: http://phpway.mx
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Owner/author information
+owner:
+  name:           PHP Way
+  avatar:         avatar.png
+  bio:            "Meetup PHP The Right Way Mexico"
+  email:          hey@phpway.mx
+  twitter:        phpwaymx
+  github:         phpwamx
+  disqus:         phpwaymx
+  location:       "Mexico DF"
+  # Plug in your disqus shortname!
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/phpwaymx
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Mexico_City
+future:      true
 highlighter: pygments
-relative_permalinks: false
-permalink: /:year/:month/:day/:title/
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
