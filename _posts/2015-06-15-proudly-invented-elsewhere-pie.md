@@ -20,7 +20,7 @@ Hoy hemos comenzado nuestro sitio donde estaremos publicando las actividades de 
 
 * Integración con GitHub Pages
 * Uso de [Markdown](https://github.com/phpwaymx/phpwaymx.github.io/tree/master/_posts)
-* Temas y extenciones
+* Temas y extensiones 
 * No tarde nada en crear el primer post :P
 * [Los niños cool usan Ruby ;)](https://www.youtube.com/watch?v=5GpOfwbFRcs)
 
