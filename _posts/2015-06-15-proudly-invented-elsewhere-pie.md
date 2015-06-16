@@ -26,7 +26,7 @@ Hoy hemos comenzado nuestro sitio donde estaremos publicando las actividades de 
 
 Ahora buscaremos a speakers de otras comunidades a los que no les caigamos tan mal, para que hagamos inclusión de temas que no solo apliquen en PHP.
 
-### Resources:
+### Referencias:
 
 * [The PHP Renaissance](http://www.palantir.net/presentations/craftingcode2014-php-renaissance)
 * [Not invented here](https://en.wikipedia.org/wiki/Not_invented_here)
@@ -34,4 +34,4 @@ Ahora buscaremos a speakers de otras comunidades a los que no les caigamos tan m
 * [Open Innovation: Proudly found elsewhere](https://www.youtube.com/watch?v=jNNz9poyKJs)
 
 
-By [@dmouse](http://twitter.com/dmouse)
+[@dmouse](http://twitter.com/dmouse)
