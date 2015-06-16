@@ -14,7 +14,7 @@ Como buenos geeks que somos al usar un lenguaje de programación tendemos a quer
 
 Parte de lo que buscamos en PHP The Right Way no solo es mostrar mejores formas de desarrollar en PHP, si no, la manera de como puede convivir con más tecnologías.
 
-Hoy hemos comenzado nuestro sitio donde estaremos publicando las actividades de nuestra [meetup](www.meetup.com/PHP-The-Right-Way) y estamos usando [Jekyll](http://jekyllrb.com/) para gestionar los post, sientete libre de [clonar](https://github.com/phpwaymx/phpwaymx.github.io) el projecto y mandar tu [PR](https://help.github.com/articles/using-pull-requests).
+Hoy hemos comenzado nuestro sitio donde estaremos publicando las actividades de nuestra [meetup](www.meetup.com/PHP-The-Right-Way) y estamos usando [Jekyll](http://jekyllrb.com/) para gestionar los post, sientete libre de [clonar](https://github.com/phpwaymx/phpwaymx.github.io) el proyecto y mandar tu [PR](https://help.github.com/articles/using-pull-requests).
 
 ### ¿Qué hizo Jekyll por nosotros?
 
