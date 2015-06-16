@@ -24,6 +24,9 @@ tools:
 links:
   - title: About
     url: /about
+  - title: Meetup
+    url: https://www.meetup.com/PHP-The-Right-Way
+    external: true
   - title: Github
     url: https://github.com/phpwaymx
     external: true
