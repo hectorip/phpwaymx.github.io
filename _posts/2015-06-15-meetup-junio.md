@@ -12,4 +12,10 @@ category: articles
 * Factory
 * Singleton, Pattern/Anty Pattern?
 
+Links mencionados en la meetup:
+https://books.google.com.mx/books/about/Design_Patterns.html?id=6oHuKQe3TjQC&source=kp_cover&hl=en
+http://www.brandonsavage.net/books
+http://practicaldesignpatternsinphp.com
+
+
 ¡Gracias a nuestros patrocinadores por hacer posible estas meetups!
