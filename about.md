@@ -8,14 +8,14 @@ image:
   feature: soft-trees.jpg
 ---
 
-Somos un grupo de desarrolladores que se reúnen periodicamente para tratar
+Somos un grupo de desarrolladores que se reúnen periódicamente para tratar
 temas relacionados con el mejoramiento de la comunidad y el código en PHP.
 
 Por eso nos llamamos PHP The Right Way, buscamos contribuir al mejoramiento
 individual de los programadores que usan PHP por un alguna u otra razón, ya que
 es el lenguaje de mayor uso en toda la web para tecnologías de backend.
 
-PHP si duda no es el lenguaje 'cool' en el que todos quieren aprender a
+PHP sin duda no es el lenguaje 'cool' en el que todos quieren aprender a
 programar, no es el útlimo grito de la moda en tecnologías y no te hace lucir
 sofisticado, pero la mayoría de los sitios están construidos en alguna versión
 de este lenguaje. Los CMS's más robustos, con más tiempo en el mercado, los
@@ -23,15 +23,15 @@ mejores eCommerce, las soluciones más rápidas y baratas para la web están
 construidas en PHP.
 
 Como mencionan grandes programadores, PHP es mejor de los que muchos
-creen ya que se quedaron en los tiempos en los remotos tiempos en los que
-carecía de la estructura y funcionalidades que las últimas versiones han
-traído. 
+creen, ya que algunos que hablan pestes de él se quedaron en los
+tiempos en los remotos tiempos en los que carecía de la estructura y
+funcionalidades que las últimas versiones han traído. 
 
-Ahora es un lenguaje con todas las características para competir con Ruby,
+Ahora es un lenguaje con todas las características necesarias para competir con Ruby,
 Python y JavaScript para la parte web.
 
-Sus frameworks, su GRAN comunidad lo hacen un muy buen lenguaje de entrada para
-aquellos que quieren aprender a programar para web de manera sencilla.
+Sus frameworks, herramientas y su GRAN comunidad lo hacen un muy buen lenguaje de entrada para
+aquellos que quieren aprender a programar web de manera sencilla.
 
 En este blog estaremos subiendo los resúmenes de las meetups y temas
 relacionados con programar en PHP de la manera correcta, pero curiosamente, los
